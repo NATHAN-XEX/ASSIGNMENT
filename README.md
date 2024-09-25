@@ -1,4 +1,7 @@
 Macsuku Nathan Tekena 23/0359
+
+
+
 This repository highlights various ES6 features in JavaScript. Each feature is explained to help you understand its usage and benefits.
 
 Table of Contents
